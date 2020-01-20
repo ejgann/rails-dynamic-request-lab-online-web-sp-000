@@ -4,6 +4,7 @@ class Student < ActiveRecord::Base
   end
 
   def show
+    
   end
 
 end
